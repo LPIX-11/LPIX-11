@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineer. I have worked as a backend developer years, and for almost 3 years now I'm a Full-Stack Mobile and Web Developer living in Senegal who fell in love with JavaScript 🔥  and Python 🐍 . 
+I am a Software Engineer. I have worked as a backend developer years, and since 2018 I'm a Full-Stack Mobile and Web Developer living in Senegal who fell in love with JavaScript 🔥  and Python 🐍 . 
 I'm really passionate about Artificial Intelligence and Mechatronics 🤖 and about to dedicate my career to it.
 Currently working as a Web Developer in a Multinational Company in Senegal. 
 
