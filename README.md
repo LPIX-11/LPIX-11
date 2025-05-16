@@ -17,7 +17,7 @@ My world revolves around **JavaScript**, **Fastify**, **Next.js**, **React Nativ
 
 - 🛠️ Leading **innovation** an **innerSourcing** and developing revolutionary Low to No-Code Service platforms 
 - 🔐 Built enterprise-grade **Strapi plugins**: security suites, Keycloak auth, logging systems, and more  
-- 🤖 Designing a **CCMS-powered AI Assistant** for multilingual support (EN/FR)  
+- 🤖 Designing a **CMS-powered AI Assistant** for multilingual support (EN/FR)  
 - 📦 Trying to create a "**TurboNode**" – a modular, blazing-fast Fastify boilerplate  
 - 🧠 Working on an internal platform automating weekly reports and project visibility
 
