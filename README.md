@@ -1,28 +1,64 @@
-### Hi there 👋
+## 👋 Hi there, I'm Mohamed Johnson
 
-<!--
-**LPIX-11/LPIX-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🧠 Tech Lead | 🔧 Full-Stack JavaScript Architect | ⚙️ Plugin Crafter | 🚀 Innovation Catalyst  
+> Currently building the future of software development at **Sonatel** (Orange Group)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧬 About Me
 
-I am a Software Engineer. I have worked as a backend developer years, and since 2018 I'm a Full-Stack Mobile and Web Developer living in Senegal who fell in love with JavaScript 🔥  and Python 🐍 . 
-I'm really passionate about Artificial Intelligence and Mechatronics 🤖 and about to dedicate my career to it.
-Currently working as a Web Developer in a Multinational Company in Senegal. 
+I'm a **Senior Software Engineer** & **Tech Lead** with over **6 years of experience** building scalable, high-impact digital solutions. Based in **Senegal**, I've gone from backend developer to leading innovation and shared foundation initiatives across Sonatel.
 
-- 🔭 I’m currently working on big projects all with React and React Native
-- 🌱 I’m currently learning Artificial Intelligence (Machine Learning and Deep Learning concepts)
-- 👯 I’m looking to collaborate on practically any project, I really like discovering and doing new things
-- 💬 Ask me about Anything from Soft-Skills to Hard Skills
-- 📫 How to reach me: just email me here mohamedjohnson31@gmail.com I'm very "reactive" 😂 (get it? ... because I work with 'React' ** please laugh **) or on [Twitter](https://twitter.com/lpix_11) too.
-- 😄 Pronouns: Funny, Perfectionist, Delightful, Open minded, Curious
-- ⚡ Fun fact: I'm actually learning more about brain and how does it work just because it's fascinating
+My world revolves around **JavaScript**, **Fastify**, **Next.js**, **React Native**, and **Strapi v5**, with deep interests in **AI**, **human cognition**, and **real-time systems**. I architect platforms that are not just functional—but powerful, modular, and future-proof.
+
+---
+
+### 🔥 Current Highlights
+
+- 🛠️ Leading **innovation** an **innerSourcing** and developing revolutionary Low to No-Code Service platforms 
+- 🔐 Built enterprise-grade **Strapi plugins**: security suites, Keycloak auth, logging systems, and more  
+- 🤖 Designing a **CCMS-powered AI Assistant** for multilingual support (EN/FR)  
+- 📦 Trying to create a "**TurboNode**" – a modular, blazing-fast Fastify boilerplate  
+- 🧠 Working on an internal platform automating weekly reports and project visibility
+
+---
+
+### 🚀 What I Do
+
+- 🧩 Architect complex, scalable full-stack ecosystems  
+- 🔍 Focus on clean ES6+ code with full JSDoc, linting, and performance profiling  
+- 🔐 Implement security-first design in plugins and APIs  
+- 🧠 Explore AI, NLP, and cognitive interfaces  
+- 📊 Automate business logic with workflow engines and CMSs  
+
+---
+
+### 📚 Always Growing
+
+- Learning more about **Generative AI**, **brain dynamics**, and **conscious computing**  
+- Deep diving into **Edge computing**, **plugin architectures**, and **API versioning**  
+- Building a **mind-blowing knowledge base** from past engineering lessons
+- Janapsese 🥳
+
+---
+
+### 🌍 Let's Connect
+
+- 💌 **Email**: mohamedjohnson31@gmail.com  
+- 🐦 **Twitter**: [@lpix_11](https://twitter.com/lpix_11)  
+- 🧠 **Current Mood**: "Thinking 10x. Coding 100x. Always shipping."  
+
+---
+
+### 💬 Fun Facts
+
+- I often write software that feels like it came from the future… and sometimes it actually does.  
+- I once built a full payment platform around Orange Money, called **OM Pay**.  
+- I use humor as syntax sugar 🍬—especially when talking about React 🤓.  
+- Still fascinated by how the **human brain** works and how we can mimic its elegance in code.  
+
+---
+
+Feel free to fork, follow, or fire away questions. I love sharing knowledge and building with brilliant minds.
+
+> _"Code with intention. Architect with vision. Lead with soul."_ — Me
